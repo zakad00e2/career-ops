@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "career-ops-web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "cwd": "career-ops-web",
+      "port": 3000,
+      "autoPort": true
+    }
+  ]
+}
